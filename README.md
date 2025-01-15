@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,tailwind,MERN Stack Development, cyber Security**
 
-- 📫 How to reach me **leetcode2004t@gmail.com**
+- 📫 How to reach me **majitanmoy14@gmail.com**
 
 - ⚡ Fun fact **I am Funny 🤣**
 
